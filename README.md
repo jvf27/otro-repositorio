@@ -1,2 +1,1 @@
-# otro-repositorio
-esta es una prueba del curso henry
+Esto es una prueba  para crear un repositorio  y clonarlo desde github a mi carpeta local
